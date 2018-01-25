@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my page  GitHub Pages
 title: welcome to juar homepage!!!!
 description: feel free to review and keep an eye on my projects
 You can use the [editor on GitHub](https://github.com/JUAREZZ/juar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
